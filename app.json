@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pista_limpa",
+    "slug": "pista_limpa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pista_limpa"
+}
